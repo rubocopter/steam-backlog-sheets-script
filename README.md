@@ -74,7 +74,7 @@ Un script de Google Apps Script para gestionar tu backlog de videojuegos directa
 
 Una vez configurado, puedes usar las funciones desde el menú `🎮 Backlog Manager`:
 
-![Captura del Menú](images/screenshot_menu.png) 
+![Captura del Menú](images/menu.png) 
 
 **Flujo Recomendado:**
 
