@@ -122,7 +122,7 @@ Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` 
 
 ## 👤 Autor
 
-*   **rubocopter** - [TuPerfilDeGitHub](https://github.com/rubocopter)
+*   **rubocopter** - [rubocopter](https://github.com/rubocopter)
 
 ---
 *Creado con ❤️ y muchas horas de juego pendientes.*
